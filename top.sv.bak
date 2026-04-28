@@ -1,0 +1,43 @@
+// Multicycle RISC-V Top Module
+// Unified instruction + data memory (RAM)
+// Testbench expects: WriteData, DataAdr, MemWrite outputs
+
+module top(input  logic        clk, reset,
+           output logic [31:0] WriteData, DataAdr,
+           output logic        MemWrite);
+
+  logic [31:0] ReadData;
+  logic [31:0] PC, Instr;
+  logic [31:0] Adr;
+
+  // Processor
+  riscv riscv(
+    .clk(clk), .reset(reset),
+    .Adr(Adr),
+    .WriteData(WriteData),
+    .ReadData(ReadData),
+    .MemWrite(MemWrite),
+    .PC(PC),
+    .Instr(Instr)
+  );
+
+  // Unified Memory (instruction + data)
+  // Word-addressed: RAM[0] = address 0x00, RAM[1] = 0x04, ...
+  // 64 words = 256 bytes
+  logic [31:0] RAM[63:0];
+
+  initial
+    $readmemh("memfile.txt", RAM);
+
+  // Read (combinational)
+  assign ReadData = RAM[Adr[31:2]];
+
+  // Write (synchronous, only when MemWrite)
+  always_ff @(posedge clk)
+    if (MemWrite)
+      RAM[Adr[31:2]] <= WriteData;
+
+  // Expose DataAdr for testbench
+  assign DataAdr = Adr;
+
+endmodule

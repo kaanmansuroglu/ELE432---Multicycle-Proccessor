@@ -1,0 +1,323 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/simulation/questa
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1777403662
+!i10b 1
+!s100 <fVji1mb2K05Z6XNCBmVe2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_PPPVnABk^R:HE2WKLV4M1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1777371472
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv
+!i122 9
+L0 1 18
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1777403662.000000
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv|
+!i113 1
+Z8 o-sv -work work
+Z9 !s92 -sv -work work {+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3}
+Z10 tCvgOpt 0
+valudec
+R1
+R2
+!i10b 1
+!s100 @4?Lczd^6NlkLLSOB=@<F3
+R3
+IjQ6:L3kWUPh=MNT[[1^bZ3
+R4
+S1
+R0
+w1777399547
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv
+!i122 8
+L0 1 26
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv|
+!i113 1
+R8
+R9
+R10
+vcontroller
+R1
+R2
+!i10b 1
+!s100 B4I8lzgSb4gG7EVlZjZO30
+R3
+IL:fkcdRf<1YE9YmRaU07Y0
+R4
+S1
+R0
+w1777403599
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv
+!i122 7
+L0 2 172
+R6
+r1
+!s85 0
+31
+Z11 !s108 1777403661.000000
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv|
+!i113 1
+R8
+R9
+R10
+vdatapath
+R1
+Z12 !s110 1777403661
+!i10b 1
+!s100 e8;0_Xi5`GY8SmF^T^`LT2
+R3
+IS6aB4<NM]K7EkJ`[E6J9>0
+R4
+S1
+R0
+w1777399467
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv
+!i122 6
+L0 2 95
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv|
+!i113 1
+R8
+R9
+R10
+vextend
+R1
+R12
+!i10b 1
+!s100 agOoRTc?US7KGJcZzL@333
+R3
+IXZj:e264[AY9Y5me1n^PE3
+R4
+S1
+R0
+R5
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv
+!i122 5
+L0 1 17
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv|
+!i113 1
+R8
+R9
+R10
+vflopenr
+R1
+R12
+!i10b 1
+!s100 W[z6j9P008hO05^WOHG6b0
+R3
+I<dBC`2WBLo>TWd`miU0m62
+R4
+S1
+R0
+R5
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv
+!i122 4
+Z13 L0 1 9
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv|
+!i113 1
+R8
+R9
+R10
+vflopr
+R1
+R12
+!i10b 1
+!s100 P<7EC]j<>J0<GQGmMc0a_1
+R3
+IZXVDmJbKX[287Vj27m?8g1
+R4
+S1
+R0
+R5
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv
+!i122 3
+R13
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv|
+!i113 1
+R8
+R9
+R10
+vmux2
+R1
+R12
+!i10b 1
+!s100 z[W@h;8OJV8ISY^9aZPL12
+R3
+IkAISIVHA@JhbbhiRO=_^Z1
+R4
+S1
+R0
+R5
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv
+!i122 2
+L0 1 6
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv|
+!i113 1
+R8
+R9
+R10
+vregfile
+R1
+Z14 !s110 1777403660
+!i10b 1
+!s100 15RDKaj6fmb=m7HTZT;L^1
+R3
+Ia9iOmkM@dZ>OB73mI8<a00
+R4
+S1
+R0
+R5
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv
+!i122 1
+L0 1 14
+R6
+r1
+!s85 0
+31
+Z15 !s108 1777403660.000000
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv|
+!i113 1
+R8
+R9
+R10
+vriscv
+R1
+R14
+!i10b 1
+!s100 WeAY1n1[`4<7RmDDS00TK1
+R3
+IbzEGMF[?;BMU^X^S_5YL91
+R4
+S1
+R0
+w1777400123
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv
+!i122 0
+L0 1 55
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv|
+!i113 1
+R8
+R9
+R10
+vriscv_testbench
+R1
+R2
+!i10b 1
+!s100 b]bQO];ze1l`0Rn_Cb8g]0
+R3
+IRio`kXWmlRD[A;5K]QiDX0
+R4
+S1
+R0
+w1777382764
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv
+!i122 11
+L0 1 37
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv|
+!i113 1
+R8
+R9
+R10
+vtop
+R1
+R2
+!i10b 1
+!s100 5[Oz`SnVPAennV`2@8]Hl2
+R3
+IRBVOTC__IEGhFd?a2HPiF2
+R4
+S1
+R0
+w1777399353
+8C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv
+FC:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv
+!i122 10
+L0 1 32
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3|C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv|
+!i113 1
+R8
+R9
+R10

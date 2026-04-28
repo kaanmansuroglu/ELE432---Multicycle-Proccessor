@@ -1,0 +1,5 @@
+Warning (10273): Verilog HDL warning at extend.sv(15): extended using "x" or "z" File: C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv Line: 15
+Warning (10273): Verilog HDL warning at datapath.sv(66): extended using "x" or "z" File: C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv Line: 66
+Warning (10273): Verilog HDL warning at datapath.sv(75): extended using "x" or "z" File: C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv Line: 75
+Warning (10273): Verilog HDL warning at datapath.sv(93): extended using "x" or "z" File: C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv Line: 93
+Warning (10273): Verilog HDL warning at alu.sv(14): extended using "x" or "z" File: C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv Line: 14

@@ -1,0 +1,171 @@
+# Reading pref.tcl
+# do top_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:20 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv.sv 
+# -- Compiling module riscv
+# 
+# Top level modules:
+# 	riscv
+# End time: 22:14:20 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:20 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/regfile.sv 
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# End time: 22:14:20 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/mux2.sv 
+# -- Compiling module mux2
+# 
+# Top level modules:
+# 	mux2
+# End time: 22:14:21 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopr.sv 
+# -- Compiling module flopr
+# 
+# Top level modules:
+# 	flopr
+# End time: 22:14:21 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/flopenr.sv 
+# -- Compiling module flopenr
+# 
+# Top level modules:
+# 	flopenr
+# End time: 22:14:21 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/extend.sv 
+# -- Compiling module extend
+# 
+# Top level modules:
+# 	extend
+# End time: 22:14:21 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/datapath.sv 
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# End time: 22:14:21 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:21 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/controller.sv 
+# -- Compiling module controller
+# 
+# Top level modules:
+# 	controller
+# End time: 22:14:22 on Apr 28,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:22 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/aludec.sv 
+# -- Compiling module aludec
+# 
+# Top level modules:
+# 	aludec
+# End time: 22:14:22 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:22 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/alu.sv 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 22:14:22 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:22 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/top.sv 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 22:14:22 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/kaanm/OneDrive/Desktop/EE4\ -\ SPRING/ELE\ 432\ -\ Digital\ Design/Preliminary\ Works/PRE3 {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:14:22 on Apr 28,2026
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3" C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv 
+# -- Compiling module riscv_testbench
+# 
+# Top level modules:
+# 	riscv_testbench
+# End time: 22:14:22 on Apr 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  riscv_testbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" riscv_testbench 
+# Start time: 22:14:22 on Apr 28,2026
+# Loading sv_std.std
+# Loading work.riscv_testbench
+# Loading work.top
+# Loading work.riscv
+# Loading work.controller
+# Loading work.aludec
+# Loading work.datapath
+# Loading work.flopenr
+# Loading work.mux2
+# Loading work.regfile
+# Loading work.flopr
+# Loading work.extend
+# Loading work.alu
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Simulation succeeded
+# ** Note: $stop    : C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv(30)
+#    Time: 725 ps  Iteration: 1  Instance: /riscv_testbench
+# Break in Module riscv_testbench at C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv line 30
+restart
+do {C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/simulation/questa/wave.do}
+run -all
+# Simulation succeeded
+# ** Note: $stop    : C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv(30)
+#    Time: 725 ps  Iteration: 1  Instance: /riscv_testbench
+# Break in Module riscv_testbench at C:/Users/kaanm/OneDrive/Desktop/EE4 - SPRING/ELE 432 - Digital Design/Preliminary Works/PRE3/riscv_testbench.sv line 30
+run
+# End time: 22:15:12 on Apr 28,2026, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 0
